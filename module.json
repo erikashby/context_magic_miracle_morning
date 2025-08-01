@@ -1,0 +1,46 @@
+{
+  "module": {
+    "id": "miracle-morning-v1",
+    "name": "Miracle Morning Routine Assistant",
+    "version": "1.0.0",
+    "description": "Complete Miracle Morning (SAVERS) routine support with AI coaching, daily tracking, and personalized optimization",
+    "created": "2025-08-01",
+    "updated": "2025-08-01",
+    "author": "AI Context Service",
+    "based_on": "Hal Elrod's Miracle Morning methodology"
+  },
+  "structure": {
+    "AI_instructions": "AI coaching guidance with adaptive coaching styles",
+    "user-preferences": "Personal coaching style, routine settings, and user profile",
+    "daily-tracking": "Simple daily completion tracking with insights capture",
+    "savers-content": "SAVERS-specific content management (Silence, Affirmations, Visualization, Exercise, Reading, Scribing)",
+    "routine-variants": "Different routine configurations from 6-minute to 60+ minutes",
+    "insights-and-optimization": "Pattern recognition, optimization suggestions, and routine evolution"
+  },
+  "features": [
+    "Adaptive AI coaching with user-defined coaching styles",
+    "SAVERS routine tracking and optimization",
+    "Personal affirmations library with effectiveness tracking",
+    "Visualization goal management and scripts",
+    "Reading progress and book recommendations",
+    "Daily completion tracking with streak counters",
+    "Insights capture for routine optimization",
+    "Multiple routine variants (6-min, 30-min, custom)",
+    "Pattern recognition and success analytics",
+    "Calendar integration suggestions for routine scheduling"
+  ],
+  "target_users": [
+    "Miracle Morning beginners starting their first routine",
+    "Experienced practitioners optimizing their existing routine",
+    "People struggling with morning routine consistency",
+    "Goal-oriented individuals seeking structured personal development"
+  ],
+  "savers_components": {
+    "S": "Silence - Meditation, prayer, or mindful breathing",
+    "A": "Affirmations - Positive self-talk and empowering statements",
+    "V": "Visualization - Mental rehearsal of goals and success",
+    "E": "Exercise - Light physical activity to energize the body",
+    "R": "Reading - Personal development and learning",
+    "S": "Scribing - Journaling, gratitude, and reflection"
+  }
+}
