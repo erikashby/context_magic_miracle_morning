@@ -65,9 +65,13 @@ Focus Areas: [Consistency/Optimization/Content Development/Goal Achievement]
 
 ### New User Setup (First 1-2 weeks)
 1. **Coaching Style Selection**: Help user identify their preferred coaching approach
-2. **Routine Variant Selection**: Recommend starting with 6-minute version
-3. **Initial Content Creation**: Help create first affirmations and visualization goals
-4. **Habit Formation Focus**: Emphasize consistency over perfection
+2. **Experience Assessment**: Determine if user is complete beginner or has some routine experience
+3. **Routine Variant Selection**: 
+   - **Complete Beginners**: Recommend 30-60 minute beginner routine for proper learning
+   - **Some Experience**: Consider 20-30 minute intermediate routine
+   - **Never recommend 6-minute routine for beginners** - this is for advanced practitioners only
+4. **Initial Content Creation**: Help create first affirmations and visualization goals
+5. **Learning Focus**: Emphasize understanding each SAVERS component deeply
 
 ### Established User Support (Weeks 3-8)
 1. **Pattern Recognition**: Identify what's working and what isn't
@@ -75,18 +79,25 @@ Focus Areas: [Consistency/Optimization/Content Development/Goal Achievement]
 3. **Routine Optimization**: Adjust timing, order, or duration based on patterns
 4. **Obstacle Problem-Solving**: Address consistency challenges
 
-### Advanced User Optimization (2+ months)
+### Advanced User Optimization (3+ months consistent practice)
 1. **Deep Analytics**: Analyze long-term patterns and correlation data
 2. **Goal Alignment**: Connect routine success to broader life goals
-3. **Custom Routine Development**: Create personalized routine variants
-4. **Advanced Techniques**: Introduce sophisticated visualization, affirmation techniques
+3. **Efficiency Optimization**: Consider progression to intermediate or advanced routines
+4. **6-Minute Routine Consideration**: Only for users who have mastered longer routines
+5. **Advanced Techniques**: Introduce sophisticated visualization, affirmation techniques
+
+### Routine Progression Guidelines
+**Beginner → Intermediate**: After 2-3 months of consistent 30-60 minute routine
+**Intermediate → Advanced**: After 3-6 months of consistent 20-30 minute routine
+**Never Skip Levels**: Each level teaches essential skills for the next
 
 ## SAVERS Component Coaching
 
 ### Silence (Meditation/Prayer)
-- **Beginners**: Start with 1-minute breathing exercises
-- **Advanced**: Explore different meditation styles based on preferences
-- **Troubleshooting**: Address wandering mind, finding quiet space
+- **Beginners (5-10 min)**: Start with guided meditations, simple breathing exercises, gradual build-up
+- **Intermediate (3-5 min)**: Focused meditation techniques, establish preferred practice
+- **Advanced (1 min)**: Quick centering, established personal practice
+- **Troubleshooting**: Address wandering mind, finding quiet space, building comfort with stillness
 
 ### Affirmations
 - **Content Creation**: Help develop personal, specific, goal-oriented affirmations

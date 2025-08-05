@@ -25,14 +25,15 @@
     "Reading progress and book recommendations",
     "Daily completion tracking with streak counters",
     "Insights capture for routine optimization",
-    "Multiple routine variants (6-min, 30-min, custom)",
+    "Progressive routine variants (30-60min beginner, 20-30min intermediate, 6-min advanced)",
     "Pattern recognition and success analytics",
+    "Experience-based routine recommendations",
     "Calendar integration suggestions for routine scheduling"
   ],
   "target_users": [
-    "Miracle Morning beginners starting their first routine",
-    "Experienced practitioners optimizing their existing routine",
-    "People struggling with morning routine consistency",
+    "Complete beginners new to morning routines (30-60 minute routines)",
+    "Developing practitioners with some experience (20-30 minute routines)",
+    "Advanced practitioners seeking optimization (6-minute maintenance routine)",
     "Goal-oriented individuals seeking structured personal development"
   ],
   "savers_components": {

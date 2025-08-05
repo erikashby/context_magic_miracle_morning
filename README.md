@@ -68,18 +68,26 @@ miracle-morning-v1/
 
 ## Routine Variants
 
-### 6-Minute Miracle Morning (Beginner)
-- 1 minute per SAVERS component
-- Perfect for building consistency
-- Focus on habit formation over perfection
+### 30-60 Minute Beginner Routine (Recommended Start)
+- 5-10 minutes per SAVERS component
+- Perfect for learning each practice deeply
+- Allows proper habit formation and skill development
+- Best for building strong foundation
 
-### 30-Minute Standard Routine
-- 5 minutes per SAVERS component
-- Balanced approach for established practitioners
-- Allows for deeper engagement with each practice
+### 20-30 Minute Intermediate Routine
+- 3-5 minutes per SAVERS component
+- For practitioners comfortable with all SAVERS elements
+- Balanced efficiency and meaningful practice
+- Natural progression from beginner routine
+
+### 6-Minute Advanced/Optimization Routine
+- 1 minute per SAVERS component
+- For experienced practitioners who've mastered the full routine
+- Quick daily practice for established habits
+- Requires prior deep familiarity with each component
 
 ### Custom Routines
-- User-defined time allocation
+- User-defined time allocation based on experience level
 - Personalized component ordering
 - Adapted to specific goals and constraints
 

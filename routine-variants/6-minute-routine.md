@@ -1,11 +1,12 @@
-# 6-Minute Miracle Morning
+# 6-Minute Miracle Morning (Advanced/Optimization Routine)
 
-The perfect starting routine for beginners or busy mornings. One minute per SAVERS component creates a complete but manageable morning practice.
+An efficient, condensed routine for experienced practitioners who have mastered the full SAVERS methodology. One minute per component provides a complete practice for those with established habits.
 
 ## Overview
 **Total Time**: 6 minutes  
-**Best For**: Beginners, busy schedules, consistency building  
-**Goal**: Establish the habit of daily practice  
+**Best For**: Advanced practitioners, busy mornings, routine maintenance  
+**Prerequisites**: Familiarity with all SAVERS components from longer practice  
+**Goal**: Maintain established habits with maximum efficiency  
 
 ## Component Breakdown (1 minute each)
 
@@ -75,22 +76,24 @@ The perfect starting routine for beginners or busy mornings. One minute per SAVE
 - **Same location daily** to reduce decision fatigue
 - **Consistent wake time** to build automatic habit
 
-## Progression Path
+## Who Should Use This Routine
 
-### Week 1-2: Focus
-- **Goal**: Complete 6 minutes every day
-- **Success**: Showing up consistently, even if imperfect
-- **Don't**: Worry about doing it perfectly
+### Ideal Candidates
+- **Experienced Practitioners**: Have practiced 20+ minute routines for at least 2-3 months
+- **Established Habits**: Comfortable with all SAVERS components individually
+- **Time-Constrained Days**: Busy periods when longer routine isn't feasible
+- **Travel/Disruption**: Maintaining consistency during schedule changes
 
-### Week 3-4: Refinement
-- **Goal**: Find what works best within each minute
-- **Success**: Routine feels more natural and automatic
-- **Adjust**: Component order or content based on what energizes you
+### Prerequisites
+- **Component Mastery**: Deep familiarity with effective silence, affirmation, visualization, exercise, reading, and scribing practices
+- **Personal Content**: Established affirmations, visualization scripts, and reading goals
+- **Routine Foundation**: Proven ability to complete longer routines consistently
 
-### Month 2+: Evolution Options
-- **Extend Time**: Move to 12-minute routine (2 minutes per component)
-- **Add Depth**: Develop more affirmations, longer visualizations
-- **Stay with 6**: Perfect the 6-minute routine - it's incredibly effective!
+### Optimization Path
+- **Refine Content**: Optimize affirmations, visualizations for maximum impact in 60 seconds
+- **Component Integration**: Develop flowing transitions between SAVERS elements  
+- **Efficiency Mastery**: Perfect the most effective version of each practice
+- **Contextual Adaptation**: Modify based on daily energy, goals, or circumstances
 
 ## Common Challenges & Solutions
 

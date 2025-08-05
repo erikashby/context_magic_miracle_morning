@@ -3,10 +3,11 @@
 *This file will be configured during your initial setup and can be updated as your routine evolves.*
 
 ## Current Routine Configuration
-**Routine Variant**: [6-minute/30-minute/Custom - to be set during setup]  
-**Total Duration**: [To be determined - typically 6, 30, or 60+ minutes]  
+**Experience Level**: [Beginner/Intermediate/Advanced - determined during setup]  
+**Routine Variant**: [30-60min Beginner/20-30min Intermediate/6min Advanced - selected based on experience]  
+**Total Duration**: [To be determined based on experience level and time availability]  
 **Start Time**: [To be set based on your schedule]  
-**Current Week**: [Week X of practicing Miracle Morning]  
+**Weeks of Practice**: [Track progression through experience levels]  
 
 ## SAVERS Component Settings
 
